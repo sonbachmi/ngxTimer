@@ -1,2 +1,2 @@
 # ngxTimer
-Countdown clock (stopwatch) using Angular
+Visual countdown clock (stopwatch) compponent using Angular 2+
